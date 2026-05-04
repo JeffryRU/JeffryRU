@@ -11,10 +11,7 @@
 - 📫 How to reach me **jeffry.25.ru@gmail.com**
 
 ### Connect with me:
-### Connect with me:
-<p align="left">
-  <a href="https://github.com/JeffryRU" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a> <a href="https://linkedin.com/in/jeffry-anderson-romero-uriol-05b728333" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-</p>
+<a href="https://github.com/JeffryRU" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a> <a href="https://linkedin.com/in/jeffry-anderson-romero-uriol-05b728333" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
 
 ### Languages and Tools:
 <p align="left">
