@@ -26,7 +26,10 @@
 </p>
 
 ### GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JeffryRU&show_icons=true&locale=en" alt="JeffryRU GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JeffryRU&show_icons=true&locale=en&layout=compact" alt="JeffryRU Top Languages" />
-</p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JeffryRU&theme=transparent&short_numbers=true" alt="GitHub Streak" /></a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
